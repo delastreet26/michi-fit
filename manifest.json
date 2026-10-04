@@ -1,0 +1,1 @@
+{"name": "Michi Fit", "short_name": "Michi Fit", "start_url": "./", "display": "standalone", "background_color": "#FFF4F6", "theme_color": "#E5304B", "icons": [{"src": "icon.png", "sizes": "512x512", "type": "image/png"}]}
